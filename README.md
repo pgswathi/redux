@@ -1,1 +1,1 @@
-# redux
+# shopping cart using redux
