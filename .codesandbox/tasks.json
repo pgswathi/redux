@@ -7,6 +7,10 @@
     "npm start": {
       "name": "npm start",
       "command": "npm start",
+      },
+    "npm i": {
+      "name": "npm i",
+      "command": "npm i",
       "runAtStart": true
     }
   }
